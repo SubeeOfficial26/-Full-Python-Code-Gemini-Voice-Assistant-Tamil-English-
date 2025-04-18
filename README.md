@@ -1,4 +1,4 @@
-# 🤖 Jarvis AI Assistant using Google Gemini API
+# Jarvis AI Assistant using Google Gemini API
 
 A fully voice-controlled personal AI assistant powered by Google's **Gemini** model. This assistant listens to your voice, sends queries to Gemini AI, and responds with natural speech in **Tamil + English**.
 
